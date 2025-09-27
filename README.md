@@ -2,7 +2,6 @@
 
 ### - I’m currently working on:
 - [ ] learning java
-- [ ] back-end of academyone's platform
 - [ ] learning linux
 
 ## - Skills
