@@ -13,11 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-selim/)\
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:luizh.selim@gmail.com)
 
-### - Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selimnds&show_icons=true&hide_title=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 <!--
 **selimnds/selimnds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
